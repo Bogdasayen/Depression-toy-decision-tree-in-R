@@ -6,8 +6,6 @@
 # curves and estimates value of information using nested simulation
 ############################################################################
 
-# Modification to test GitHub desktop
-
 ############################################################################
 # Howard Thom 14-November-2018
 # University of Bristol.
